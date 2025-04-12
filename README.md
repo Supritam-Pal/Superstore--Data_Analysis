@@ -16,6 +16,8 @@ A collection of data analytics dashboards created using Power BI, Excel, and Pow
 
 **Power Query** – Data transformation and automation
 
+**DAX** – for calculated measures and KPIs.
+
 ## 🔍 Dashboard Overview
 
 The Power BI Dashboard includes:
