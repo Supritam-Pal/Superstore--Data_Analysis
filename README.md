@@ -1,5 +1,5 @@
 
-# 📊 Super Sales Dashboard - Power BI Project
+# 📊 Super Sales Dashboard - Power BI, Excel Project
 
 This repository contains a Power BI Dashboard that visualizes and analyzes sales data from various categories, regions, and time periods. It provides a comprehensive overview of key performance metrics, including sales by category, subcategory, region, segment, shipping mode, and more.
 📈 Power BI & Excel Dashboard Projects
