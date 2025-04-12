@@ -2,6 +2,17 @@
 # 📊 Super Sales Dashboard - Power BI Project
 
 This repository contains a Power BI Dashboard that visualizes and analyzes sales data from various categories, regions, and time periods. It provides a comprehensive overview of key performance metrics, including sales by category, subcategory, region, segment, shipping mode, and more.
+📈 Power BI & Excel Dashboard Projects
+A collection of data analytics dashboards created using Power BI, Excel, and Power Query. These projects focus on healthcare insights and sales forecasting, combining strong visuals with meaningful data narratives to support better business and healthcare decisions.
+
+🗂️ Projects Included
+🔹 1. Healthcare Data Analysis Dashboard
+📌 Tools Used
+Excel – Data cleaning, pivot tables, KPI calculations
+
+Power BI – Visualization and storytelling
+
+Power Query – Data transformation and automation
 
 ## 🔍 Dashboard Overview
 
