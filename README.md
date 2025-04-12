@@ -7,7 +7,9 @@ A collection of data analytics dashboards created using Power BI, Excel, and Pow
 
 🗂️ Projects Included
 🔹 1.Sales Data Analysis Dashboard
+
 📌 Tools Used
+
 **Excel** – Data cleaning, pivot tables, KPI calculations
 
 **Power BI** – Visualization and storytelling
