@@ -1,3 +1,6 @@
+<img width="1256" height="706" alt="Screenshot 2026-06-12 142331" src="https://github.com/user-attachments/assets/93d930e5-c5c0-4102-bbee-bce9d4827b39" />
+<img width="1250" height="712" alt="Screenshot 2026-06-12 142345" src="https://github.com/user-attachments/assets/8449f925-8451-464e-8f68-a9ce593deec2" />
+
 
 # 📊 Super Sales Dashboard - Power BI, Excel Project
 
